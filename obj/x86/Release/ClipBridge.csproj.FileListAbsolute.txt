@@ -1,0 +1,6 @@
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\CLIP\ClipBridge_NET40_v4_8_WiderHelp_XPTextFix\ClipBridge\bin\x86\Release\ClipBridge.exe.config
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\CLIP\ClipBridge_NET40_v4_8_WiderHelp_XPTextFix\ClipBridge\bin\x86\Release\ClipBridge.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\CLIP\ClipBridge_NET40_v4_8_WiderHelp_XPTextFix\ClipBridge\bin\x86\Release\ClipBridge.pdb
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\CLIP\ClipBridge_NET40_v4_8_WiderHelp_XPTextFix\ClipBridge\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\CLIP\ClipBridge_NET40_v4_8_WiderHelp_XPTextFix\ClipBridge\obj\x86\Release\ClipBridge.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\CLIP\ClipBridge_NET40_v4_8_WiderHelp_XPTextFix\ClipBridge\obj\x86\Release\ClipBridge.pdb
